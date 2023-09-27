@@ -1,0 +1,37 @@
+body{ 
+ background-image: linear-gradient(to left, #D5F2ED, #F2CECE, #FFC2AA); 
+    
+    } 
+    
+     
+    
+    td{ 
+     border-radius: 6px; 
+     background-color: #d3d3d353; 
+    
+    } 
+    
+     
+    
+    select{ 
+     border-radius: 8px; 
+     border-color: #363636; 
+    background-color: #d3d3d353; 
+    
+    } 
+    
+     
+    
+    button{ 
+     border-radius: 10px; 
+     border-color: #363636; 
+    background-color: #d3d3d353; 
+    
+    } 
+    
+     
+    
+    h1{ 
+     font-size: 35px; 
+     color: #0C1726; 
+     font-family: 'Caprasimo', cursive;} 

@@ -1,0 +1,32 @@
+body{ 
+background-image: linear-gradient(to left, #d5f2ed, #F2CECE, #FFC2AA); 
+    
+    } 
+    
+     
+    
+    input{ 
+     border-radius: 15px; 
+     width: 250px; 
+    height: 25px; 
+    
+    } 
+    
+     
+    
+    input#btn{ 
+     border-radius: 30px; 
+    width: 300px; 
+    height: 40px; 
+    font-size: 16px; 
+    background-color: #ffc2aa5d; 
+    } 
+    
+     
+    
+    h2{ 
+    font-size: 15px; 
+    margin: 0; 
+    color: #04070D; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    } 

@@ -1,0 +1,33 @@
+body{ 
+background-image: linear-gradient(to left, #d5f2ed, #F2CECE, #FFC2AA); 
+    
+    } 
+    
+     
+    
+    h2{ 
+    font-size: 15px; 
+    padding-top: 12px; 
+    margin: 0; 
+    color: #04070D; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    } 
+    
+     
+    
+    h1{ 
+    font-size: 35px; 
+    color: #0C1726; 
+    font-family: 'Caprasimo', cursive; 
+    
+    } 
+    
+     
+    
+    a{ 
+    font-size: 15px; 
+    padding-top: 12px; 
+    margin: 0; 
+    color: #12203d; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    } 
